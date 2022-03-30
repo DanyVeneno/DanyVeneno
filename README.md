@@ -9,7 +9,9 @@
    every code you find here belongs to you.
    some news soon.
    I've been work as a freelance for some years
+    <br>
    <hr>
+   <br>
 ##  👀 Languages and tools that i've worked with...(Some of them just a little)
 
 <table>
@@ -184,8 +186,14 @@
 </table>
 
 <br>
-![DanyVeneno's github stats](https://github-readme-stats.vercel.app/api/?username=danyVeneno&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![DanyVeneno's github stats](https://github-readme-stats.vercel.app/api/?username=danyveneno&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <br>
+
+
+##  👀 If you wat to know about me check this link:
+ <a href="https://linktr.ee/yehiibhii">know me more</a>
+
+
 <!---
 DanyVeneno/DanyVeneno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
