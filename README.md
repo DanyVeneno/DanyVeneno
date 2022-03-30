@@ -128,7 +128,7 @@ I get my first badge that gave me @innovaccionvirtual because also i am taking b
       </td>
       <td width="10%" align="center">
         <span><strong>Solidity</strong></span><br><br>
-        <img height="100px" src="https://cdn.worldvectorlogo.com/logos/solidity.svg">
+        <img height="75px" src="https://cdn.worldvectorlogo.com/logos/solidity.svg">
       </td>
       <td width="10%" align="center">
         <span><strong>CorelDraw</strong></span><br><br>
