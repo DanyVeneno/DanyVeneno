@@ -4,10 +4,12 @@
 <br>
 
 
-- 👋 Hi everyone my name is Daniel i am Mexican citizen
+👋 Hi everyone my name is Daniel i am Mexican citizen,
 🌱im learning Javascript and react-native react js i have some proyects that will be updating soon
-every code you find here belongs to you.
-some news soon.
+   every code you find here belongs to you.
+   some news soon.
+   I've been work as a freelance for some years
+   <hr>
 ##  👀 Languages and tools that i've worked with...(Some of them just a little)
 
 <table>
@@ -180,8 +182,9 @@ some news soon.
      </tbody>
     
 </table>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-![Hrishikesh's github stats](https://github-readme-stats.vercel.app/api/?username=hrishikesh-coder&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<br>
+![DannyVeneno github stats](https://github-readme-stats.vercel.app/api/?username=dannyVeneno&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <br>
 <!---
 DanyVeneno/DanyVeneno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
