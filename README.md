@@ -4,12 +4,11 @@
 <br>
 
 
-👋 Hi everyone my name is Daniel i am Mexican citizen,
-🌱im learning Javascript and react-native react js also some languages below this paragraph, <br>
-  i have some proyects that will be updating soon
-   every code you find here belongs to you.
-   some news soon.
-    I've been work as a freelance for some years nowdays the pandemic season broke me up the goal this for this year to get a job as a CEO see you on the road!
+ <strong>👋 Hi everyone my name is Daniel i am Mexican citizen,
+🌱im learning Javascript/react-native/react js, also some languages below this paragraph, 
+ i have some proyects that will be updating soon
+   every code you find here belongs to you. Some news soon.<br>
+   I've been work as a freelance for some years, nowdays the pandemic season broke me up the goal for this year is to get a job as a CEO, see you on the road!</strong>
     <br>
    <hr>
    <br>
