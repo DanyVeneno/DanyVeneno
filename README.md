@@ -204,7 +204,15 @@ I get my first badge that gave me @innovaccionvirtual because also i am taking b
 
 
 ##  👀 If you want to know more about me check this link:
- <a href="https://linktr.ee/yehiibhii"><img height="30%" width="30%"  styles=" border-radius:50%; margin:40%;" target="_blank" src="https://d1fdloi71mui9q.cloudfront.net/u1CHBRASxilaUzD2Nkub_jG5wUmUBeuqccWEZ"></a>
+ <a  target="blank"  href="https://linktr.ee/yehiibhii"><img width="30%" height="30%"  styles=" border-radius:50%; margin:40%;" src="https://d1fdloi71mui9q.cloudfront.net/u1CHBRASxilaUzD2Nkub_jG5wUmUBeuqccWEZ"></a>
+
+##  👀 Some nugets
+<hr>
+<a  target="blank"  href="https://zen-boyd-b57a73.netlify.app/">BudgetWeek</a>
+<a  target="blank"  href="https://jvstore.netlify.app/">JvStore</a>
+<a  target="blank"  href="https://elated-pasteur-7f16f8.netlify.app/">Customer Admin</a>
+
+
 
 
 <!---
