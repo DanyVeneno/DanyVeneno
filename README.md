@@ -204,7 +204,7 @@ I get my first badge that gave me @innovaccionvirtual because also i am taking b
 
 
 ##  👀 If you want to know more about me check this link:
- <a  target="blank"  href="https://linktr.ee/yehiibhii"><img width="30%" height="30%"  styles=" border-radius:50%; margin:40%;" src="https://d1fdloi71mui9q.cloudfront.net/u1CHBRASxilaUzD2Nkub_jG5wUmUBeuqccWEZ"></a>
+ <a target="blank"  href="https://linktr.ee/yehiibhii"><img width="100%" src="https://scontent.fmex1-1.fna.fbcdn.net/v/t39.30808-6/277722808_2353254778162002_6365946657069395966_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=Wkp88hWUo0YAX9kKo4v&_nc_ht=scontent.fmex1-1.fna&oh=00_AT_KGGXyfDKu0-nuogo5uLOPo4O_AN2ILYOgtezoAumwpQ&oe=62497467"></a>
 
 ##  👀 Some nugets
 <hr>
