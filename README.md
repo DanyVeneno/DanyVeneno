@@ -188,7 +188,7 @@
 </table>
 
 <br>
-[![danyveneno's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyveneno)](https://github.com/anuraghazra/github-readme-stats)
+[![DanyVeneno's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyveneno)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
