@@ -5,7 +5,7 @@
 
 
 - 👋 Hi everyone my name is Daniel i am Mexican citizen
-🌱im learning Javascript and react-native react js i have some proyects that wil be updating soon
+🌱im learning Javascript and react-native react js i have some proyects that will be updating soon
 every code you find here belongs to you.
 some news soon.
 ##  👀 Languages and tools that i've worked with...(Some of them just a little)
