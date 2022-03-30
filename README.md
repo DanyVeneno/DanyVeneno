@@ -208,8 +208,13 @@ I get my first badge that gave me @innovaccionvirtual because also i am taking b
 
 ##  👀 Some nugets
 <hr>
+<p><strong>A little app to handle your BudgetWeek come on check them out!</strong></p>
 <a  target="blank"  href="https://zen-boyd-b57a73.netlify.app/">BudgetWeek</a>
+<hr>
+<p><strong>A little appstore come on check them out!</strong></p>
 <a  target="blank"  href="https://jvstore.netlify.app/">JvStore</a>
+<hr>
+<p><strong>A little app to handle your Customers come on check them out!</strong></p>
 <a  target="blank"  href="https://elated-pasteur-7f16f8.netlify.app/">Customer Admin</a>
 
 
