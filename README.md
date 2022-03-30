@@ -12,7 +12,9 @@
     <br>
    <hr>
    <br>
+   
 ##  👀 Languages and tools that i've worked with...(Some of them just a little)
+<hr>
 
 <table>
   <tbody>
@@ -186,12 +188,12 @@
 </table>
 
 <br>
-![DanyVeneno's github stats](https://github-readme-stats.vercel.app/api/?username=danyveneno&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![danyveneno's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyveneno)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
-##  👀 If you wat to know about me check this link:
- <a href="https://linktr.ee/yehiibhii">know me more</a>
+##  👀 If you want to know more about me check this link:
+ <a href="https://linktr.ee/yehiibhii"><img height="30%" width="30%"  styles=" border-radius:50%; margin:40%;" target="_blank" src="https://d1fdloi71mui9q.cloudfront.net/u1CHBRASxilaUzD2Nkub_jG5wUmUBeuqccWEZ"></a>
 
 
 <!---
