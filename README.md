@@ -9,9 +9,20 @@
  i have some proyects that will be updating soon
    every code you find here belongs to you. Some news soon.<br>
    I've been work as a freelance for some years, nowdays the pandemic season broke me up the goal for this year is to get a job as a CEO, see you on the road!</strong>
-    <br>
+   <br>
    <hr>
    <br>
+   
+ ## 👀 Today:
+   <hr> 
+    <br>  
+     <strong>
+I get my first badge that gave me @innovaccionvirtual because also i am taking bootcamp called <span color:#4582po>FullStack Developer LaunchX                supported by Microsoft & GitHub.</span>
+
+   </strong>
+     <br>
+     <hr>
+     <br>
    
 ##  👀 Languages and tools that i've worked with...(Some of them just a little)
 <hr>
