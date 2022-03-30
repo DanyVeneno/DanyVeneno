@@ -17,7 +17,7 @@
    <hr> 
     <br>  
      <strong>
-I get my first badge that gave me @innovaccionvirtual because also i am taking bootcamp called <span color:#4582po>FullStack Developer LaunchX                supported by Microsoft & GitHub.</span>
+I get my first badge that gave me @innovaccionvirtual because also i am taking bootcamp called <span color:#4582po>FullStack Developer LaunchX                supported by Microsoft & GitHub i mean a great persons Team Missions Comanders and Explorers, thanks everyone.</span>
 
    </strong>
      <br>
