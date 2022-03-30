@@ -144,11 +144,11 @@ I get my first badge that gave me @innovaccionvirtual because also i am taking b
       </td>
       <td width="10%" align="center">
         <span><strong>InkScape</strong></span><br><br>
-        <img height="100px" src="https://media.inkscape.org/media/resources/file/inkscape.svg">
+        <img height="70px" src="https://media.inkscape.org/media/resources/file/inkscape.svg">
       </td>
       <td width="10%" align="center">
         <span><strong>DaVinci Resolve</strong></span><br><br>
-        <img height="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/480px-DaVinci_Resolve_17_logo.svg.png">
+        <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/480px-DaVinci_Resolve_17_logo.svg.png">
       </td>
      </tr>
      </tbody>
