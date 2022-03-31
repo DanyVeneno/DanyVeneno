@@ -1,5 +1,5 @@
 
-<p align="center"><img width=80% src="https://static-cdn.jtvnw.net/jtv_user_pictures/eebdad77-ef17-4f15-bbf2-c182cc9dca90-channel_offline_image-1920x1080.png"></p>
+<p align="center"><img width=100% src="https://scontent-qro1-2.xx.fbcdn.net/v/t39.30808-6/277707343_2353392251481588_6877302212554997967_n.jpg?stp=dst-jpg_p180x540&_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=4C1AXTWJGwIAX9kZczg&_nc_ht=scontent-qro1-2.xx&oh=00_AT8djhdygObnoGyuIzY-vSC5QXZfWXtQEgPXiyHROMF25w&oe=624AE5FF"></p>
 
 <br>
 
