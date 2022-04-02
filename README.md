@@ -30,7 +30,7 @@ I get my first badge that gave me @innovaccionvirtual because also i am taking b
 <table>
   <tbody>
     <tr valign="top">
-      <td width="10%" align="center">
+      <td width="10%" align="center" styles="background:#C1FF00;">
 	      <span><strong>Html 5</strong></span><br><br>
         <img height="100px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
       </td>
