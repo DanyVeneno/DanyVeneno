@@ -199,7 +199,7 @@ I get my first badge that gave me @innovaccionvirtual because also i am taking b
 </table>
 
 <br>
-[![Dany Veneno's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyveneno)]
+[Dany Veneno's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyveneno)]
 <br>
 
 
