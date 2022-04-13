@@ -153,8 +153,6 @@ I get my first badge that gave me @innovaccionvirtual because also i am taking b
      </tr>
      </tbody>
   
-  
-  
   <tbody>
     <tr valign="top">
       <td width="10%" align="center">
@@ -197,10 +195,6 @@ I get my first badge that gave me @innovaccionvirtual because also i am taking b
      </tbody>
     
 </table>
-
-<br>
-
-<br>
 
 
 ##  👀 If you want to know more about me check this link:
