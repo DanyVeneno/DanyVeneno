@@ -195,9 +195,11 @@ I get my first badge that gave me @innovaccionvirtual because also i am taking b
      </tbody>
     
 </table>
+<hr>
 
 
 ##  👀 If you want to know more about me check this link:
+
  <a target="blank"  href="https://scontent.fmex1-1.fna.fbcdn.net/v/t39.30808-6/277722808_2353254778162002_6365946657069395966_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=CbS2HmWSe1MAX8WiziQ&_nc_ht=scontent.fmex1-1.fna&oh=00_AT8nHk17AsZNpjpd9_U7sQUl3lyb0a0M57ro8jGqjmhz_Q&oe=626329A7"></a>
 
 ##  👀 Some nugets
