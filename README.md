@@ -1,4 +1,24 @@
 
+```javascript
+class Human{
+  constructor(name, lastName, age, nationality, stacks, greeting){
+    this.name = name
+    this.lastName = lastName
+    this.age = age
+    this.nationality = nationality
+    this.stacks = stacks
+    this.greeting = greeting
+  }
+
+  getInfo(){
+    return `Este humano se llama ${this.name}
+    ${this.lastName} y tiene ${this.age} de edad, su nacionalidad es ${this.nationality} y esta aprendiendo a programar en ${this.stacks}y te manda saludos ${this.greeting}`
+  }
+}
+const me = new Human("Daniel", "Vallejo", "43 años", "Mexicana","Node Js y Javascript", "desde México")
+console.log(me.getInfo())
+
+```
 <p align="center"><img width=100% src="https://scontent.fmex1-1.fna.fbcdn.net/v/t39.30808-6/277707343_2353392251481588_6877302212554997967_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=QQAVNI7GZn4AX-eTIEm&_nc_ht=scontent.fmex1-1.fna&oh=00_AT8ajw26xPXSAkDKRsVPRJAIqG2RvJ3ZLQU3W1mK-UuuPQ&oe=62649B3F"></p>
 
 <br>
