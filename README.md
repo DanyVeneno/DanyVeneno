@@ -19,7 +19,8 @@ const me = new Human("Daniel", "Vallejo", "43 años", "Mexicana","Node Js y Java
 console.log(me.getInfo())
 
 ```
-<p align="center"><img width=100% src="https://scontent.fmex1-1.fna.fbcdn.net/v/t39.30808-6/277707343_2353392251481588_6877302212554997967_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=QQAVNI7GZn4AX-eTIEm&_nc_ht=scontent.fmex1-1.fna&oh=00_AT8ajw26xPXSAkDKRsVPRJAIqG2RvJ3ZLQU3W1mK-UuuPQ&oe=62649B3F"></p>
+
+  ![this image](https://scontent.fmex1-1.fna.fbcdn.net/v/t39.30808-6/277707343_2353392251481588_6877302212554997967_n.jpg?stp=dst-jpg_p180x540&_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=I2QByjZtwwEAX_Jpx_m&tn=cogV0nDsGQFfBjek&_nc_ht=scontent.fmex1-1.fna&oh=00_AT-mlLr0-yRoLM6N0F92U6EP-zpIrBlgfqcLE1n-4MURKw&oe=626C843F)
 
 <br>
 
@@ -220,8 +221,8 @@ I get my first badge that gave me @innovaccionvirtual because also i am taking b
 
 ##  👀 If you want to know more about me check this link:
 
-<a target="blank"  href="https://linktr.ee/yehiibhii"><img width=100% src="https://scontent.fmex1-1.fna.fbcdn.net/v/t39.30808-6/277722808_2353254778162002_6365946657069395966_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=CbS2HmWSe1MAX8WiziQ&_nc_ht=scontent.fmex1-1.fna&oh=00_AT8nHk17AsZNpjpd9_U7sQUl3lyb0a0M57ro8jGqjmhz_Q&oe=626329A7"></a>
 
+![](https://scontent-qro1-2.xx.fbcdn.net/v/t39.30808-6/277722808_2353254778162002_6365946657069395966_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=HOFpu7hgWQUAX8k9F5s&tn=cogV0nDsGQFfBjek&_nc_ht=scontent-qro1-2.xx&oh=00_AT9wqq5SHH7xb97JBY9NmCuNecaHBIb1XQD8NjkPsn1bvw&oe=626D0CE7)
 
 
  
