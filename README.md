@@ -20,7 +20,7 @@ console.log(me.getInfo())
 
 ```
 
-  ![this image](https://scontent.fmex1-1.fna.fbcdn.net/v/t39.30808-6/277707343_2353392251481588_6877302212554997967_n.jpg?stp=dst-jpg_p180x540&_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=I2QByjZtwwEAX_Jpx_m&tn=cogV0nDsGQFfBjek&_nc_ht=scontent.fmex1-1.fna&oh=00_AT-mlLr0-yRoLM6N0F92U6EP-zpIrBlgfqcLE1n-4MURKw&oe=626C843F)
+  ![this image](https://scontent.fmex1-1.fna.fbcdn.net/v/t39.30808-6/277707343_2353392251481588_6877302212554997967_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=Oo3hSapWyAMAX_QXRNg&_nc_ht=scontent.fmex1-1.fna&oh=00_AT82qEwoHhWlvvXtEqTlrDP9x-M0_tjper6vhvr2_WrEUg&oe=6276677F)
 
 <br>
 
