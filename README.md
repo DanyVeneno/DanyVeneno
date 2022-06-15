@@ -22,8 +22,10 @@ console.log(me.getInfo())
 ---
 
 
-  ![Daniel Vallejo](https://user-images.githubusercontent.com/89219507/173763533-4114e0da-43dd-463f-8979-fd48c38cab03.png)
 
+ [![Daniel Vallejo]([image URL link](https://user-images.githubusercontent.com/89219507/173765068-2519f55f-68a0-42ef-8663-99b496911fdf.png))]([anchor link](https://user-images.githubusercontent.com/89219507/173763533-4114e0da-43dd-463f-8979-fd48c38cab03.png))
+ 
+ 
 
 <br>
 
