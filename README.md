@@ -23,8 +23,9 @@ console.log(me.getInfo())
 
 
 
- ![Daniel Vallejo](https://user-images.githubusercontent.com/89219507/173765068-2519f55f-68a0-42ef-8663-99b496911fdf.png)
  
+ ![Daniel Vallejo](https://user-images.githubusercontent.com/89219507/173766777-f904444b-bb14-49c3-a8ea-c94cfeb6448b.png)
+
  
 
 <br>
