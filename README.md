@@ -231,9 +231,10 @@ I get my first badge that gave me @innovaccionvirtual because also i am taking b
 
 
  [![Podcast](https://user-images.githubusercontent.com/89219507/173766249-c81fd877-071a-4974-a481-58e870dcae95.png)
-)(https://user-images.githubusercontent.com/89219507/173764041-4633e31e-7876-4df2-85a0-c3cc8e181e2c.png](https://anchor.fm/dannyveneno)
+)](https://user-images.githubusercontent.com/89219507/173764041-4633e31e-7876-4df2-85a0-c3cc8e181e2c.png](https://anchor.fm/dannyveneno)
 
 
+ 
 
 
 
