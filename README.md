@@ -21,7 +21,9 @@ console.log(me.getInfo())
 ```
 ---
 
-  ![this image](https://scontent.fmex1-1.fna.fbcdn.net/v/t39.30808-6/277707343_2353392251481588_6877302212554997967_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=Oo3hSapWyAMAX_QXRNg&_nc_ht=scontent.fmex1-1.fna&oh=00_AT82qEwoHhWlvvXtEqTlrDP9x-M0_tjper6vhvr2_WrEUg&oe=6276677F)
+
+  ![Daniel Vallejo](https://user-images.githubusercontent.com/89219507/173763533-4114e0da-43dd-463f-8979-fd48c38cab03.png)
+
 
 <br>
 
@@ -222,7 +224,8 @@ I get my first badge that gave me @innovaccionvirtual because also i am taking b
 
 ##  👀 If you want to know more about me check this link:
 
-![Blog](https://scontent.fmex1-1.fna.fbcdn.net/v/t39.30808-6/277722808_2353254778162002_6365946657069395966_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=A53PryQQp5EAX9WNmHi&tn=dm3bItehurK18Fqj&_nc_ht=scontent.fmex1-1.fna&oh=00_AT8HyZmhey8kYk26zCSlHCmxEKtno_-rIeqklDLChKSLZA&oe=6274F5E7)
+
+![blog](https://user-images.githubusercontent.com/89219507/173764041-4633e31e-7876-4df2-85a0-c3cc8e181e2c.png)
 
 
 ##  👀 Some nugets
