@@ -23,7 +23,7 @@ console.log(me.getInfo())
 
 
 
- [![Daniel Vallejo]([image URL link](https://user-images.githubusercontent.com/89219507/173765068-2519f55f-68a0-42ef-8663-99b496911fdf.png))]([anchor link](https://user-images.githubusercontent.com/89219507/173763533-4114e0da-43dd-463f-8979-fd48c38cab03.png))
+ ![Daniel Vallejo](https://user-images.githubusercontent.com/89219507/173765068-2519f55f-68a0-42ef-8663-99b496911fdf.png)
  
  
 
@@ -227,7 +227,14 @@ I get my first badge that gave me @innovaccionvirtual because also i am taking b
 ##  👀 If you want to know more about me check this link:
 
 
-![blog](https://user-images.githubusercontent.com/89219507/173764041-4633e31e-7876-4df2-85a0-c3cc8e181e2c.png)
+
+
+ [![Podcast]([![image](https://user-images.githubusercontent.com/89219507/173766249-c81fd877-071a-4974-a481-58e870dcae95.png)
+)](https://user-images.githubusercontent.com/89219507/173764041-4633e31e-7876-4df2-85a0-c3cc8e181e2c.png](https://anchor.fm/dannyveneno))
+
+
+
+
 
 
 ##  👀 Some nugets
