@@ -112,10 +112,7 @@ I get my first badge that gave me @innovaccionvirtual because also i am taking b
         <span><strong>Python</strong></span><br><br>
         <img height="100px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
       </td>
-      <td width="10%" align="center">
-        <span><strong>C#</strong></span><br><br>
-        <img height="100px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-      </td>
+      
       <td width="10%" align="center">
         <span><strong>Tailwind</strong></span><br><br>
         <img height="100px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg">
